@@ -1,5 +1,5 @@
 ### AUTHORS
-* Victor Animashaun
+* Victor Animasahun
 * Sarah Adu
 ---
 What this project is all about:
