@@ -1,5 +1,5 @@
 ### AUTHORS
-* Victor Animashaun
+* Victor Animasahun
 * Sarah Adu
 ---
 What this project is all about:
@@ -16,3 +16,5 @@ These are all the task for this project
 2. With a face like mine, I do better in print
 
 3. What one has not experienced, one will never understand in print
+
+4. Nothing in fine print is ever good news
